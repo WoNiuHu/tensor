@@ -1,5 +1,6 @@
 # Do you want to start with TensorFlow?
-# Here you go! Exmple app for traffic sign classification
+# Here you go!
+# Exmple app for traffic sign classification
 
  
 
