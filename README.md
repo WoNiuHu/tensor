@@ -25,10 +25,10 @@ In this app we aim to classify traffic signs into 62 class labels.
 
 ## Run
 
-To run the application:
-	-  python tsc.py 
+    -To run the application:
+	>  python tsc.py 
     - to view a sample graphical evaluation:
-	-  display sample_evaluation.png 
+	>  display sample_evaluation.png 
     - you can change the number of epochs in the code. btw, we don't expect your accuracy go up noticable; you need to define more features
 
  
