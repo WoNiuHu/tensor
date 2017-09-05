@@ -25,7 +25,7 @@ In this app we aim to classify traffic signs into 62 class labels.
 
 ## Run
 
-    - to run the application:
+To run the application:
 	-  python tsc.py 
     - to view a sample graphical evaluation:
 	-  display sample_evaluation.png 
